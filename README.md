@@ -250,7 +250,7 @@ true
 Execute the ingestion pipeline:
 
 ```bash
-python ingestion_agent.py
+python agent.py
 ```
 
 The agent will:
