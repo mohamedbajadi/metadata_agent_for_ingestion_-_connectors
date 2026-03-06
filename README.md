@@ -88,7 +88,7 @@ project/
 │   ├── users.csv
 │   └── products.csv
 │
-├── ingestion_agent.py
+├── agent.py
 ├── README.md
 ```
 
